@@ -1,5 +1,5 @@
 
-# react-native-react-native-sign-in-with-apple
+# react-native-sign-in-with-apple
 
 ## Getting started
 
